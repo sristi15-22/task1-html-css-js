@@ -4,7 +4,7 @@
 
 This is my submission for Task 1 of the 45-Day HTML, CSS, and JavaScript Internship from ApexPlanet.
 
-## 🌐 What I Learned
+## 🌐 What I Learned 
 - HTML: Headings, paragraphs, images, links
 - CSS: Colors, fonts, layout, styling
 - JavaScript: Basic interactivity, alert box
